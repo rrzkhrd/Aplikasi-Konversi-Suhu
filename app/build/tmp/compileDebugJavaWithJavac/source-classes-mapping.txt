@@ -1,0 +1,11 @@
+com/contoh/konversisuhu/rumus/Temperatures.java
+ com.contoh.konversisuhu.rumus.Temperatures
+com/contoh/konversisuhu/rumus/SharedPrefsTemp.java
+ com.contoh.konversisuhu.rumus.SharedPrefsTemp
+com/contoh/konversisuhu/BuildConfig.java
+ com.contoh.konversisuhu.BuildConfig
+com/contoh/konversisuhu/activities/MainActivity.java
+ com.contoh.konversisuhu.activities.MainActivity
+ com.contoh.konversisuhu.activities.MainActivity$1
+ com.contoh.konversisuhu.activities.MainActivity$2
+ com.contoh.konversisuhu.activities.MainActivity$3
